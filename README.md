@@ -1,6 +1,6 @@
 # Cap 4 - Site com estilo - Atividade 1
 
-Feito com HTML e SASS/SCSS.
+Atividade para faculdade FIAP feita com HTML e SASS/SCSS.
 
 <strong>Observações:</strong>
 <ul>
